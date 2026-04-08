@@ -1,2 +1,11 @@
 # 1Plus1
-Calculate 1+1 on Python/JavaScript
+```python
+git clone github.com/cTomatoes/1Plus1.git
+cd 1Plus1
+python3 cal
+```
+```nodejs
+git clone github.com/cTomatoes/1Plus1.git
+cd 1Plus1
+node cal
+```
